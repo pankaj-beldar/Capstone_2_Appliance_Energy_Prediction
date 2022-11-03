@@ -1,6 +1,9 @@
 # Capstone_2_Appliance_Energy_Prediction
-#Google Drive Link-
-#Github Link-
+
+#Google Drive Link- https://drive.google.com/drive/folders/1BCkmDXLOwWRts3pVDx4WYIMVi2iDKa4M?usp=share_link
+
+#Github Link- https://github.com/pankaj-beldar/Capstone_2_Appliance_Energy_Prediction/blob/main/Copstone_2__Appliance_Energy_Prediction.ipynb
+
  
 The understanding of the appliances energy use in buildings has been the subject of numerous research studies , since appliances represent a significant portion (between 20 and 30% of the electrical energy demand . For instance, in a study in the UK for domestic buildings , appliances, such as televisions and consumer electronics operating in standby were attributed to a near about 10% increase in the electricity consumption. Regression models for energy use can help to understand the relationships between different variables and to quantify their impact. Thus, prediction models of electrical energy consumption in buildings can be useful for a number of applications: to determine adequate sizing of photovoltaics and energy storage to diminish power flow into the grid , to detect abnormal energy use patterns , to be part of an energy management system for load control , to model predictive control applications where the loads are needed , for demand side management (DSM) and demand side response (DSR) and as an inputfor building performance simulation analysis
 Regression plot of Dependent Variable with other Features
