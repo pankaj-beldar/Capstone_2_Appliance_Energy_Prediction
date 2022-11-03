@@ -9,21 +9,27 @@ Daywise hourly Appliances use-
 
 Feature Selection-
 F Value-
+
 ![F value](https://user-images.githubusercontent.com/111692879/199649454-09a99f99-950f-488f-8e53-201ef203f02b.png)
 
 Variance Threshold-
+
 ![threshold variance](https://user-images.githubusercontent.com/111692879/199649544-fde47b5f-f72b-4119-931c-950ac73be9be.png)
 
 Principal Component Analysis-
+
 ![pca](https://user-images.githubusercontent.com/111692879/199649584-8bd1f456-8bfd-4f89-be8c-e8e0dd734f80.png)
 
 Feature Importartance-
+
 ![download (4)](https://user-images.githubusercontent.com/111692879/199649643-e3e34d24-310c-4d28-98e9-02c1777f3010.png)
 
 Optimal Model Based on R2 Score, MAE, RMSE
+
 ![result](https://user-images.githubusercontent.com/111692879/199649795-25e666c0-d512-4b50-a2f3-1496fc6e6b81.png)
 
 Model Explanability- LIME, Eli5
+
 ![image](https://user-images.githubusercontent.com/111692879/199649880-52ae52de-e8f2-41bc-956c-d82e571291d5.png)
 
 Conclusion
