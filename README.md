@@ -32,7 +32,7 @@ Model Explanability- LIME, Eli5
 
 ![image](https://user-images.githubusercontent.com/111692879/199649880-52ae52de-e8f2-41bc-956c-d82e571291d5.png)
 
-Conclusion
+
 The household appliance energy consumption prediction models based on Linear Regression, Lasso Regression, Ridge Regression, DecisionTree Regressor Random Forest Regressor, Adaptive Boosting Regressor, Gradient Boosting Regressor, Bagging Regressor, K Neighbors Regressor and Linear SVM are explored.
 Upon appropriate preprocessing and fitting the ten models, we compare and evaluate the best model with lowest error and the highest R-squared score.
 When evaluating the influence of Random Variable attribute the linear models have assigned near zero weights to the random variable, negating its influence in prediction of the target variable.
@@ -43,4 +43,4 @@ Data from a wireless sensor network that measures humidity and temperature has b
 When using all the predictors the light consumption was ranked highly. However, when studying different predictor subsets, removing the light consumption appeared not to have a significant impact. This may be an indication that other features are correlated well with the light energy consumption.
 The possible explanation for why the pressure has a strong prediction power may be related to its influence on the wind speed and higher rainfall probability which could potentially increase the occupancy of the house.
 As this dataset has a time component to it, we believe that better performances can be achieved by using Time Series Analysis concepts.
-This study has found curious relationships between variables. Future work could include considering weather data such as solar radiation and precipitation. Also occupancy and occupant’s activity information could be useful to improve the prediction and find its relationship with other parameters (exterior weather for example). The wireless sensors could also measure CO2 and noise to help in the prediction and to track the occupant’s movement from room to room and time spent in each room
+This study has found curious relationships between variables. Future work could include considering weather data such as solar radiation and precipitation. Also occupancy and occupant’s activity information could be useful to improve the prediction and find its relationship with other parameters (exterior weather for example). The wireless sensors could also measure CO2 and noise to help in the prediction and to track the occupant’s movement from room to room and time spent in each room.
