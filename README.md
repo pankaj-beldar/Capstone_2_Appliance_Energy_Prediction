@@ -15,11 +15,13 @@ Daywise hourly Appliances use-
 Feature Selection-
 F Value-
 
-![F value](https://user-images.githubusercontent.com/111692879/199649454-09a99f99-950f-488f-8e53-201ef203f02b.png)
+![anova](https://user-images.githubusercontent.com/111692879/199897826-5f2bdb78-cba0-48b5-aadb-65379506cd63.png)
+
 
 Variance Threshold-
 
-![threshold variance](https://user-images.githubusercontent.com/111692879/199649544-fde47b5f-f72b-4119-931c-950ac73be9be.png)
+![vt](https://user-images.githubusercontent.com/111692879/199897863-27922cd9-9e90-48de-8efa-f4dcb9c2c5f4.png)
+
 
 Principal Component Analysis-
 
