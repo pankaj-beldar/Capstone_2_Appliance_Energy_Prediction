@@ -27,7 +27,8 @@ Principal Component Analysis-
 
 Feature Importartance-
 
-![download (4)](https://user-images.githubusercontent.com/111692879/199649643-e3e34d24-310c-4d28-98e9-02c1777f3010.png)
+![ft](https://user-images.githubusercontent.com/111692879/199897746-b5a56d96-bfb0-48e8-8c41-af59468be97b.png)
+
 
 Optimal Model Based on R2 Score, MAE, RMSE
 
