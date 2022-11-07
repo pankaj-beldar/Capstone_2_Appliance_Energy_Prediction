@@ -26,15 +26,19 @@ Variance Threshold-
 Principal Component Analysis-
 
 ![pca](https://user-images.githubusercontent.com/111692879/199649584-8bd1f456-8bfd-4f89-be8c-e8e0dd734f80.png)
+![download (12)](https://user-images.githubusercontent.com/111692879/200237006-170c0402-87bd-4caf-9f13-a92df8b4a8b8.png)
+
 
 Feature Importartance-
 
-![ft](https://user-images.githubusercontent.com/111692879/199897746-b5a56d96-bfb0-48e8-8c41-af59468be97b.png)
+![download (10)](https://user-images.githubusercontent.com/111692879/200236879-be2c26b7-2808-41fc-93fb-bd5d513d5923.png)
+
 
 
 Optimal Model Based on R2 Score, MAE, RMSE
 
-![result](https://user-images.githubusercontent.com/111692879/199649795-25e666c0-d512-4b50-a2f3-1496fc6e6b81.png)
+![download (11)](https://user-images.githubusercontent.com/111692879/200236942-8670a11e-27a4-4e2d-9451-c06e0f795e86.png)
+
 
 Model Explanability- LIME, Eli5
 
